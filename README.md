@@ -1,4 +1,4 @@
 # shubh_demo
 this is my first git repository.
 <br>
-author-shubham sharma
+author-shubham sharma ratti
